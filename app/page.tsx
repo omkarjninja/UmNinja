@@ -327,7 +327,7 @@ export default function LandingPage() {
                 </div>
               </div>
               <p className="text-gray-600 italic">
-                "UmNinja helped me eliminate my filler words and become more confident in presentations. The AI topics are incredibly engaging!"
+                UmNinja helped me eliminate my filler words and become more confident in presentations. The AI topics are incredibly engaging!
               </p>
             </div>
             
@@ -342,7 +342,7 @@ export default function LandingPage() {
                 </div>
               </div>
               <p className="text-gray-600 italic">
-                "The real-time feedback is game-changing. I can see my progress immediately and focus on specific areas for improvement."
+                The real-time feedback is game-changing. I can see my progress immediately and focus on specific areas for improvement.
               </p>
             </div>
             
@@ -357,7 +357,7 @@ export default function LandingPage() {
                 </div>
               </div>
               <p className="text-gray-600 italic">
-                "As a teacher, clear communication is crucial. This tool has made me more articulate and confident in the classroom."
+              As a teacher, clear communication is crucial. This tool has made me more articulate and confident in the classroom.
               </p>
             </div>
           </div>
