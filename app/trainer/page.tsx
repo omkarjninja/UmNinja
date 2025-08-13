@@ -121,7 +121,7 @@ export default function TrainerPage() {
             ) : (
               <div className="text-center">
                 <blockquote className="text-xl md:text-2xl font-medium text-gray-900 leading-relaxed italic">
-                  "{currentTopic}"
+                  {currentTopic}
                 </blockquote>
               </div>
             )}
@@ -165,7 +165,7 @@ export default function TrainerPage() {
                 className="bg-gradient-to-r from-red-50 to-pink-50 border border-red-200 rounded-lg p-3 text-center hover:shadow-md transition-all duration-200 transform hover:-translate-y-1"
               >
                 <span className="text-red-700 font-semibold text-sm">
-                  "{word}"
+                  {word}
                 </span>
               </div>
             ))}
